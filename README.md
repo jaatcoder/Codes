@@ -1,2 +1,2 @@
 # Codes
-You will find some of my codes here
+This is my first Repository
